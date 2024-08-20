@@ -1,0 +1,2 @@
+hdfs -fs -ls
+https://phoenixnap.com/kb/install-apache-zookeeper
